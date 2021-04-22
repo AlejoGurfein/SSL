@@ -1,2 +1,1 @@
-Alejo Gurfein
-SSL
+Visual studio code con mingw-w64
